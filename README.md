@@ -1,6 +1,6 @@
 # Sistema Bancário
 
-Este é um sistema bancário simples desenvolvido em Node.js, que opera no terminal.
+Este é um sistema bancário simples desenvolvido em Node.js, que opera no terminal
 
 ## Tecnologias Utilizadas
 
